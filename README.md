@@ -7,3 +7,4 @@
 - docker-compose up -d
 - .env.example аналогичен оригинальному .env, скопировать и переименовать
 - выдать права 777 на папку storage
+- php artisan farm:life
